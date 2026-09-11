@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "varunsai.aternos.me",
+    "port": 43023,
     "version": "",
     "try-creative": false
   },
@@ -83,5 +83,5 @@
   },
   "chat": {
     "respond": true
-  }
+  }auto-sleep
 }
